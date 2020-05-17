@@ -20,6 +20,5 @@ Thanks to these codes, you can quickly send private messages.
 -----------------
 # 4. The end. [For Contact](https://rucesocial.com "RuceSocial.com")
 ### Mail: rucesocial@gmail.com
-
-
+![Install Chrome Extensions](https://i.resimyukle.xyz/LWdQ8c.png "RuceSocial")
 
