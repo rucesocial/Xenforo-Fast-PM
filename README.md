@@ -10,5 +10,6 @@ Thanks to these codes, you can quickly send private messages.
 ![Install Chrome Extensions](https://i.resimyukle.xyz/1GVbPJ.png "Ruce Social")
 
 -------------------
-# 3. Paste your code
+# 3. Paste and save the codes.
+#### (Organize the necessary places according to your own site.)
 ![Install Chrome Extensions](https://i.resimyukle.xyz/VML1Od.png "RuceSocial.com")
