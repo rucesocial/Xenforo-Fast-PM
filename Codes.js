@@ -35,7 +35,7 @@
     
     
         }
-      node.setAttribute("href", "https://yoursitelink.com/conversations/add?to="+username+"&title="+baslik+"&message="+"Merhabalar şu konu hakkında detaylı bilgi alabilir miyim ? : "+window.location.href+text+" Bu mesaj Hızlı ÖM Eklentisi ile gönderilmiştir. Link:");
+      node.setAttribute("href", "https://yoursitelink.com/conversations/add?to="+username+"&title="+baslik+"&message="+"Merhabalar şu konu hakkında detaylı bilgi alabilir miyim ? : "+window.location.href+text+" This message was sent with a fast PM Link: https://github.com/rucesocial/Xenforo-Fast-PM");
       node.setAttribute("class","fas fa-comments");
       node.setAttribute("title","www.rucesocial.com");
     
