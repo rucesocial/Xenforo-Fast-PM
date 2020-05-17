@@ -18,7 +18,6 @@
     for (i = 0; i < x.length; i++) {
     
     var username = document.getElementsByClassName("message-name");
-    username[i].style.backgroundColor="blue";
     username=username[i].innerText;
     var linkEkle = document.getElementsByClassName("actionBar-set--external");
     
